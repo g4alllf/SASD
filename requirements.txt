@@ -1,0 +1,11 @@
+clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
+numpy>=1.24.2
+pandas>=2.0.3
+Pillow>=10.0.0
+pretrainedmodels>=0.7.4
+pynvml>=11.5.0
+scipy>=1.11.1
+torch>=2.0.0+cu118
+torchvision>=0.15.1+cu118
+tqdm>=4.61.2
+transformers>=4.31.0

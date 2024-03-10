@@ -1,0 +1,11 @@
+/NIPS17
+/perturbed_images/*
+/results/*
+/src/__pycache__/*
+/src/GN/__pycache__/*
+/src/torch_nets/__pycache__/*
+/src/utils/__pycache__/*
+/tf2torch_models
+/models
+/src/saved_models/*
+/imagenet
